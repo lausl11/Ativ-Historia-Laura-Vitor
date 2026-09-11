@@ -19,3 +19,8 @@
 
 <img width="882" height="370" alt="{3AA103EC-2BE9-4767-B6B3-6B9CEB3F439E}" src="https://github.com/user-attachments/assets/1614a0a4-f1d3-4ce4-97a1-c754c6074d73" />
 
+# Fontes
+## Lucida Console, monoespace.
+<img width="209" height="96" alt="image" src="https://github.com/user-attachments/assets/4dbc51f4-bf91-4097-bf12-0007b6a61044" />
+
+
