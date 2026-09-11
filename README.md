@@ -14,3 +14,8 @@
     </td>
   </tr>
 </table>
+
+# paleta de cores
+
+<img width="882" height="370" alt="{3AA103EC-2BE9-4767-B6B3-6B9CEB3F439E}" src="https://github.com/user-attachments/assets/1614a0a4-f1d3-4ce4-97a1-c754c6074d73" />
+
