@@ -1,4 +1,46 @@
-# Informações do nosso trabalho
+# História do Brasil
+
+Site informativo desenvolvido para apresentar os principais períodos da História do Brasil de forma visual e interativa.
+
+<h2>objetivo:</h2>
+
+Facilitar o aprendizado de conteúdos históricos através de uma interface moderna e intuitiva.
+
+<h2>Funcionalidades</h2>
+
+Slider interativo na página inicial
+
+Navegação entre períodos históricos
+
+Páginas individuais para cada tema
+
+Layout responsivo
+
+<h2>Tecnologias</h2>
+
+HTML5
+
+CSS3
+
+JavaScript
+
+<h2>Temas Abordados</h2>
+
+Descobrimento do Brasil
+
+Brasil Colonial
+
+Independência
+
+Brasil Império
+
+República
+
+<h2>Desenvolvido por</h2>
+Laura dos Santos Laurindo
+Vitor Gabriel Dultra Marques
+
+# Informações gerais
 
 <table>
   <tr>
