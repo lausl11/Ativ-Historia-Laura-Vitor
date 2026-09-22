@@ -25,16 +25,7 @@ CSS3
 JavaScript
 
 <h2>Temas Abordados</h2>
-
-Descobrimento do Brasil
-
-Brasil Colonial
-
-Independência
-
-Brasil Império
-
-República
+Primeiro reinado e suas vertentes
 
 <h2>Desenvolvido por</h2>
 Laura dos Santos Laurindo
