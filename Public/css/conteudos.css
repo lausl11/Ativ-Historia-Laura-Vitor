@@ -23,13 +23,19 @@ header {
 }
 
 header h1 {
-    font-size: 42px;
-    margin: 25px 0 10px;
+    color: #ffffff;
+    font-size: 3rem;
+    font-family: "lucida console", monospace;
+    font-weight: bold;
+    line-height: 1;
 }
 
 header p {
-    color: #e0d5c7;
-    font-size: 16px;
+    font-size: 1.2rem;
+    font-family: "lucida console", monospace;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 4px;
 }
 
 .voltar {
@@ -51,7 +57,7 @@ header p {
 }
 
 .conteudo {
-    width: 85%;
+    width: 65%;
     max-width: 900px;
     margin: 20px auto 50px;
     padding: 35px;
@@ -92,3 +98,33 @@ header p {
         padding: 22px;
     }
 }
+.pconf {
+color: #2a4129;;
+}
+.pconst {
+    color: rgb(90, 84, 52)
+}
+.pcont {
+    color: #917b66;
+}
+.pcris {
+    color: #8f3820;
+}
+.peco {
+color: #97816a;
+}
+.pini {
+    color: #4caab3;
+}
+.pleg {
+    color: #665f5f;
+}
+.pcis {
+color: #4470bb;
+}
+
+
+
+
+
+
