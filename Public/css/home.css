@@ -24,15 +24,6 @@ body {
     z-index: 5;
 }
 
-.cabecalho h1 {
-    font-size: 60px;
-    margin-bottom: 10px;
-}
-
-.cabecalho p {
-    font-size: 16px;
-}
-
 main {
     position: relative;
     width: 100%;
@@ -89,12 +80,13 @@ main {
     margin: 0;
     padding: 8px;
     color: white;
-    background-color: rgb(167, 160, 158);
+    background-color: rgb(167, 160, 158, 0.10);
+    backdrop-filter: blur(10px);
     border-radius: 30px;
     box-shadow: 5px 3px 20px black;
-    font-size: 17px;
+    font-size: 1.2rem;
+    font-family: "lucida console", monospace;
     text-align: center;
-    text-shadow: 2px 2px 5px black;
 }
 
 .slider span .icone-clique {
@@ -107,7 +99,8 @@ main {
     padding: 2px;
     object-fit: contain;
     border-radius: 5px;
-    background-color: rgb(199, 199, 199);
+    background-color: rgb(167, 160, 158, 0.10);
+    backdrop-filter: blur(10px);
     box-shadow: 3px 3px 5px black;
     -webkit-mask-image: none;
     mask-image: none;
@@ -172,4 +165,22 @@ main {
     .slider-button-next {
         right: 10px;
     }
+}
+
+.hh1 {
+    padding-top: 10px;
+    color: #ffffff;
+    font-size: 3rem;
+    font-family: "lucida console", monospace;
+    font-weight: bold;
+    line-height: 1;
+}
+
+.hp {
+    font-size: 1.2rem;
+    color: #b9b9b9;
+    font-family: "lucida console", monospace;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 4px;
 }
