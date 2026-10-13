@@ -10,7 +10,7 @@ const cores = [
     "#c14b2b",
     "#558be8",
     "#6ef3ff",
-    "#e6d685"
+    "#c4b777"
 ];
 
 const totalSlides = 7;
